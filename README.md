@@ -8,4 +8,4 @@ This Repo contains some samples of ML models. Some of the Projects built are:
 
 | SL No | Data name | ML Model | Dataset Source |
 | :--- | :--- | :--- | :--- |
-| 1 | [Heart Disease Data](https://github.com/NeoMorpheus99/AI-ML/blob/main/Data%20Set/Heart_Disease_DataSet.csv) | [Heart Disease Prediction Model]() | # | 
+| 1 | [Heart Disease Data](https://github.com/NeoMorpheus99/AI-ML/blob/main/Data%20Set/Heart_Disease_DataSet.csv) | [Heart Disease Prediction Model](https://github.com/NeoMorpheus99/AI-ML/blob/main/model/Heart_Disease_Prediction_Model.ipynb) | # | 
