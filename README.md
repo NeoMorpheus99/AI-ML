@@ -10,3 +10,4 @@ This Repo contains some samples of ML models that I have worked on. Please Feel 
 | SL No | Data name | ML Model | Method Used | Remarks |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Heart Disease Data](https://github.com/NeoMorpheus99/AI-ML/blob/main/Data%20Set/Heart_Disease_DataSet.csv) | [Heart Disease Prediction Model](https://github.com/NeoMorpheus99/AI-ML/blob/main/model/Heart_Disease_Prediction_Model.ipynb) | Logistic Regression, KNN | None |
+| 2 | [Text Classification Data](#) | [Text Classification](href) | Regression Model | None
