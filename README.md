@@ -12,4 +12,4 @@ This Repo contains some samples of ML models that I have worked on. Please Feel 
 | 1 | [Heart Disease Prediction Model](https://github.com/NeoMorpheus99/AI-ML/blob/main/model/Heart_Disease_Prediction_Model.ipynb)  | [Heart Disease Data](https://github.com/NeoMorpheus99/AI-ML/blob/main/Data%20Set/Heart_Disease_DataSet.csv)| Logistic Regression, KNN | None |
 | 2 | [Text Classification Data](#) | [Text Classification](href) | Regression Model | None
 | 3 | [Action Detection for Sign Langauage Translation](https://github.com/NeoMorpheus99/AI-ML/blob/main/model/Main_file.ipynb) | [Sign Langauge Data](href) | LSTM Model | None
-| 4 | [Lung Cancer Prediction](https://github.com/NeoMorpheus99/AI-ML/blob/main/model/Main_file.ipynb) | [Lung cancer Data](https://www.kaggle.com/datasets/wajahat1064/lung-cancer-survey-data) | yet to decide | None
+| 4 | [Lung Cancer Prediction](https://github.com/NeoMorpheus99/AI-ML/blob/main/model/Main_file.ipynb) | [Lung cancer Data](https://www.kaggle.com/datasets/wajahat1064/lung-cancer-survey-data){:target="_blank"} | yet to decide | None
