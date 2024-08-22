@@ -13,3 +13,4 @@ This Repo contains some samples of ML models that I have worked on. Please Feel 
 | 2 | [Text Classification Data](#) | [Text Classification](href) | Regression Model | None
 | 3 | [Action Detection for Sign Langauage Translation](https://github.com/NeoMorpheus99/AI-ML/blob/main/model/Main_file.ipynb) | [Sign Langauge Data](href) | LSTM Model | None
 | 4 | [Lung Cancer Prediction](https://github.com/NeoMorpheus99/AI-ML/blob/main/model/Main_file.ipynb) | [Lung cancer Data](https://www.kaggle.com/datasets/wajahat1064/lung-cancer-survey-data) | yet to decide | None
+| 5 | [YOLO Practice](https://github.com/NeoMorpheus99/AI-ML/blob/main/model/YOLO_Project.ipynb) | [Dataset](https://universe.roboflow.com/nicolai-hoirup-nielsen/cup-detection-v2/model/3) | yet to decide | None
